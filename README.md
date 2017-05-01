@@ -1,2 +1,2 @@
 # camelboxrepo
-repositorio como si svn
+repositorio como si fuese svn
